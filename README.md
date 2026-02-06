@@ -19,3 +19,5 @@ Install requests if needed:
 
 pip install requests
 
+## Output
+<img width="1193" height="141" alt="image" src="https://github.com/user-attachments/assets/be6d710f-89c2-4a36-992f-e45e6dcfc225" />
